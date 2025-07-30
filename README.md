@@ -1,7 +1,7 @@
 <div align="center">
  
   <!-- Typing SVG -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d8bc00&width=435&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
   
   <!-- GitHub Stats -->
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoeChanMyaeHtun&show_icons=true&theme=radical)](https://github.com/MoeChanMyaeHtun)
